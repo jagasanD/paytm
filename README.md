@@ -19,10 +19,10 @@ artifactId=pg-checksum
  4. add the following dependency in pom.xml 
  
       <dependency>
-			<groupId>com.paytm.pg</groupId>
-			<artifactId>pg-checksum</artifactId>
+	<groupId>com.paytm.pg</groupId>
+	<artifactId>pg-checksum</artifactId>
       <version>1.0</version>
-		</dependency>
+  </dependency>
     
     now your pytm jar is availale to use in spring boot project
  
